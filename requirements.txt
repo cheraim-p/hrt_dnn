@@ -1,0 +1,13 @@
+tensorboard
+tensorboard-data-server
+tensorboard-plugin-wit
+tensorflow
+tensorflow-estimator
+tensorflow-io-gcs-filesystem
+pydicom==2.2.2
+imutils
+h5py
+opencv-python-headless
+opencv-contrib-python
+matplotlib
+mysql-connector-python
